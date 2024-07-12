@@ -77,5 +77,7 @@ impl ChipEighth {
 }
 
 fn main() {
-  println!("Hello, world!");
+  const n: i32 = -1000;
+
+  let arr: [i32; 5] = [1, 2, 3, 4, 5, 6];
 }
